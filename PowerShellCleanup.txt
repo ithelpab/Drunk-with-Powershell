@@ -1,0 +1,25 @@
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.YourPhone | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.Xbox.TCUI | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.XboxGamingOverlay | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.XboxApp | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.BingWeather | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.Getstarted | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.SkypeApp | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.People | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.MSPaint | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.MicrosoftOfficeHub | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.ZuneVideo | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.MixedReality.Portal | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.MicrosoftSolitaireCollection | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.WindowsMaps | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers microsoft.windowscommunicationsapps | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.ZuneMusic | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.GetHelp | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.WindowsFeedbackHub | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.549981C3F5F10 | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.Microsoft3DViewer | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.WindowsAlarms | Remove-AppxPackage -AllUsers
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers Microsoft.WindowsSoundRecorder | Remove-AppxPackage -AllUsers
+
+
+Get-AppxPackage -PackageTypeFilter All,Bundle,Framework,Main,None,Optional,Resource,Xap -Allusers SpotifyAB.SpotifyMusic | Remove-AppxPackage -AllUsers
